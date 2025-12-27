@@ -9,17 +9,13 @@ A modularized weather tracking application built with Java modules that fetches 
 
 ## Setup
 
-### 1. No API Key Required!
-
-Open-Meteo is completely free and doesn't require any API key or registration.
-
-### 2. Build the Project
+### 1. Build the Project
 
 ```bash
 mvn clean compile
 ```
 
-### 3. Run the Application
+### 2. Run the Application
 
 **Console Version:**
 ```bash
