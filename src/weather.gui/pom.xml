@@ -56,7 +56,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>0.0.8</version>
                 <configuration>
-                    <mainClass>com.weather.gui.WeatherApplication</mainClass>
+                    <mainClass>weather.gui/com.weather.gui.WeatherApplication</mainClass>
                 </configuration>
             </plugin>
         </plugins>

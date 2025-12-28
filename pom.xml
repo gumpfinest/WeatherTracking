@@ -24,7 +24,6 @@
     <modules>
         <module>src/weather.core</module>
         <module>src/weather.api</module>
-        <module>src/weather.app</module>
         <module>src/weather.gui</module>
     </modules>
 
